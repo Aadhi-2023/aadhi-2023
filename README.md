@@ -2,15 +2,15 @@
 # 👋 Hi, I'm Aadhithyan!
 
 🚀 **Java Backend Developer | Spring Boot | Azure**
-🔹 3+ years experience in Java development  
+🔹 4+ years experience in Java development  
 🔹 Passionate about building scalable backend applications  
 🔹 Currently exploring microservices & cloud technologies  
 
 ## 🔧 Skills  
 - Java, Spring Boot, Hibernate  
 - REST API Development, Microservices  
-- Azure Functions, Cosmos DB  
-- SQL, NoSQL (MongoDB)  
+- Azure Functions, Cosmos DB, Azure AD B2C, jwt 
+- SQL, NoSQL   
 
 ## 🌟 Featured Projects  
 1. [Restaurant Order API](https://github.com/Aadhi-2023/restaurant-api) - A full-fledged API for ordering food online.  
